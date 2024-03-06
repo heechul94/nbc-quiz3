@@ -1,5 +1,7 @@
+import TodoList from "@/components/todoList/TodoList";
+
 const Home = () => {
-  return <div>TodoList</div>;
+  return <TodoList />;
 };
 
 export default Home;
